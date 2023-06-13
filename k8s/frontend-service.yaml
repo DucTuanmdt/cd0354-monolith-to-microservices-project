@@ -6,7 +6,7 @@ metadata:
   name: frontend
 spec:
   ports:
-    - name: "80_4200"
+    - name: "4200"
       port: 80
       targetPort: 4200
   selector:
